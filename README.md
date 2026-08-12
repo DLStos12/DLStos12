@@ -1,4 +1,11 @@
 <div align="center">
+  <img src="https://i.imgur.com/zu4NX6k.png" width="100%" alt="Banner do perfil de Derick Luiz">
+</div>
+
+<br>
+
+
+<div align="center">
 
 # 👋 Olá! Eu sou o Derick Luiz
 
@@ -69,6 +76,9 @@ Principais funcionalidades:
 
 **Tecnologias:** HTML • CSS • JavaScript • PHP
 
+🔗 [Ver projeto online](https://dlstos12.github.io/anotaai/)  
+📂 [Ver repositório](https://github.com/DLStos12/anotaai)
+
 ---
 
 ### 🌐 IPFAV
@@ -79,6 +89,9 @@ Após adquirir novos conhecimentos, retornei ao projeto e realizei uma refatora�
 
 **Tecnologias:** HTML • CSS • JavaScript • Bootstrap
 
+🔗 [Ver projeto online](https://dlstos12.github.io/DLStos12-ipfav_tte/)  
+📂 [Ver repositório](https://github.com/DLStos12/DLStos12-ipfav_tte)
+
 ---
 
 ### ✉️ Cartas Vivas
@@ -88,6 +101,9 @@ Projeto desenvolvido para centralizar e disponibilizar conteúdos e vídeos de c
 Também implementei integração com **Google Forms** para recebimento de pedidos de oração.
 
 **Tecnologias:** HTML • CSS • JavaScript • Bootstrap
+
+🔗 [Ver portfólio](https://dlstos12.github.io/Portif-lio/)  
+📂 [Ver repositório](https://github.com/DLStos12/Portif-lio)
 
 ---
 
