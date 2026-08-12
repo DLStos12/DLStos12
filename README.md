@@ -1,9 +1,3 @@
-<div align="center">
-  <img src="https://i.imgur.com/zu4NX6k.png" width="100%" alt="Banner do perfil de Derick Luiz">
-</div>
-
-<br>
-
 
 <div align="center">
 
