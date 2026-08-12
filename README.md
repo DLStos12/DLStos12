@@ -102,20 +102,6 @@ PHP              ██████░░░░  Aprendendo
 
 Meu foco atual é aprofundar meus conhecimentos em **JavaScript e desenvolvimento Front-End**, além de evoluir na construção de aplicações cada vez mais completas.
 
----
-
-## 📊 GitHub
-
-<div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=DLStos12&show_icons=true&theme=tokyonight&hide_border=true" />
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DLStos12&layout=compact&theme=tokyonight&hide_border=true" />
-
-</div>
-
----
-
 ## 🎯 Objetivo profissional
 
 Estou em busca da minha **primeira oportunidade profissional na área de desenvolvimento**, seja através de estágio ou como Desenvolvedor Front-End Júnior.
