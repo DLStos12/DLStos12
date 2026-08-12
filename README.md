@@ -1,16 +1,149 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**DLStos12/DLStos12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# 👋 Olá! Eu sou o Derick Luiz
 
-Here are some ideas to get you started:
+### 💻 Desenvolvedor Front-End em formação
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Estudante de **ADS**, transformando aprendizado em projetos reais.
+
+</div>
+
+---
+
+## 👨‍💻 Sobre mim
+
+Sou estudante de **ADS** e tenho direcionado meus estudos para o desenvolvimento Front-End.
+
+Gosto de transformar ideias e problemas reais em aplicações funcionais, utilizando meus projetos como uma forma de colocar em prática aquilo que aprendo.
+
+Já desenvolvi projetos pessoais e também tive minha primeira experiência desenvolvendo um site para um cliente real.
+
+* 🎓 Cursando ADS
+* 💻 Foco em desenvolvimento Front-End
+* 🚀 Desenvolvendo projetos próprios
+* 🧠 Sempre buscando aprender novas tecnologias
+* 🎯 Buscando minha primeira oportunidade profissional na área de desenvolvimento
+
+---
+
+## 🛠️ Tecnologias e ferramentas
+
+<div align="center">
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" width="45" title="HTML5"/>
+&nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" width="45" title="CSS3"/>
+&nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="45" title="JavaScript"/>
+&nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" width="45" title="Bootstrap"/>
+&nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" width="45" title="PHP"/>
+&nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width="45" title="Git"/>
+&nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" width="45" title="GitHub"/>
+&nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" width="45" title="VS Code"/>
+
+</div>
+
+---
+
+## 🚀 Projetos em destaque
+
+### 📋 AnotaAí
+
+Aplicação web criada para facilitar o gerenciamento de **vendas a prazo, clientes, pagamentos, estoque e cobranças** de pequenos negócios.
+
+Principais funcionalidades:
+
+* Cadastro e gerenciamento de clientes
+* Registro e edição de vendas
+* Controle de pagamentos e valores em aberto
+* Controle de estoque
+* Relatórios
+* Cobranças via WhatsApp
+* Informações para pagamento via Pix
+* Backup e restauração de dados
+* Instalação como PWA
+* Interface responsiva
+
+**Tecnologias:** HTML • CSS • JavaScript • PHP
+
+---
+
+### 🌐 IPFAV
+
+Site institucional desenvolvido para um **cliente real**, representando minha primeira experiência comercial com desenvolvimento web.
+
+Após adquirir novos conhecimentos, retornei ao projeto e realizei uma refatoração, melhorando a organização do código, a estrutura semântica e a responsividade.
+
+**Tecnologias:** HTML • CSS • JavaScript • Bootstrap
+
+---
+
+### ✉️ Cartas Vivas
+
+Projeto desenvolvido para centralizar e disponibilizar conteúdos e vídeos de cultos realizados no meu ambiente de trabalho.
+
+Também implementei integração com **Google Forms** para recebimento de pedidos de oração.
+
+**Tecnologias:** HTML • CSS • JavaScript • Bootstrap
+
+---
+
+## 📚 Atualmente estudando
+
+```text
+JavaScript       █████████░  Evoluindo
+Front-End        █████████░  Evoluindo
+Git / GitHub     ████████░░  Evoluindo
+PHP              ██████░░░░  Aprendendo
+```
+
+Meu foco atual é aprofundar meus conhecimentos em **JavaScript e desenvolvimento Front-End**, além de evoluir na construção de aplicações cada vez mais completas.
+
+---
+
+## 📊 GitHub
+
+<div align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=DLStos12&show_icons=true&theme=tokyonight&hide_border=true" />
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DLStos12&layout=compact&theme=tokyonight&hide_border=true" />
+
+</div>
+
+---
+
+## 🎯 Objetivo profissional
+
+Estou em busca da minha **primeira oportunidade profissional na área de desenvolvimento**, seja através de estágio ou como Desenvolvedor Front-End Júnior.
+
+Quero trabalhar em um ambiente onde possa aplicar meus conhecimentos, aprender com outros desenvolvedores e continuar evoluindo através de desafios reais.
+
+---
+
+## 🤝 Vamos nos conectar?
+
+<div align="center">
+
+<a href="https://www.linkedin.com/in/derick-luiz-1524a634b/">
+  <img src="https://img.shields.io/badge/LinkedIn-Derick%20Luiz-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
+</a>
+
+<a href="https://github.com/DLStos12">
+  <img src="https://img.shields.io/badge/GitHub-DLStos12-181717?style=for-the-badge&logo=github&logoColor=white">
+</a>
+
+</div>
+
+---
+
+<div align="center">
+
+### 💻 Transformando aprendizado em código, um projeto de cada vez.
+
+</div>
